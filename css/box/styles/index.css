@@ -1,0 +1,36 @@
+*{
+    margin: 0px auto;
+	padding: 0px;
+ }
+
+body
+
+{
+   
+	width:96%;
+    background-attachment: fixed;
+    height:auto;
+    padding:2%;
+  
+	
+}
+
+
+
+
+div {
+    width  : 60px;
+    height : 60px;
+    border : 20px solid rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin : 20px 0;
+  
+    background-size    : 140px;
+    background-position: center;
+    background-image   : url('https://mdn.mozillademos.org/files/11947/ff-logo.png');
+    background-color   : #ffd700;
+  }
+  
+  .default     { background-clip: border-box;  }
+.padding-box { background-clip: padding-box; }
+.content-box { background-clip: content-box; }

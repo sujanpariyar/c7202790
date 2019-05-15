@@ -1,0 +1,19 @@
+
+
+
+  img {
+  	max-width: 100%;
+  	margin: 0 auto;
+  	display: block;
+  }
+   header {
+        background: url(./img/img1.jpg) no-repeat center;
+        height: 200px;
+      } 
+
+section {
+        padding: 20px;
+      }
+      p {
+        line-height: 1.5;
+      }
